@@ -4,6 +4,7 @@
 #include <QWidget>
 #include <QFrame>
 #include <QPainter>
+#include <QPainterPath>
 #include <QFont>
 #include <QVBoxLayout>
 #include <QColor>
