@@ -16,10 +16,10 @@ public:
     const int dsize = 3;
     const int dstep = 4;
     const int distance_between_rocket_and_wall = 2;
-    const int max_dv = 2;
+    const int max_dv = 4;
     const int max_dsize = 10;
     const int max_dstep = 30;
-    const int max_asteroid_dquantity = 4;
+    const int max_asteroid_dquantity = 6;
     const int min_asteroid_period = 50;
     const int dasteroid_period = 10;
     int asteroid_period = 80;
